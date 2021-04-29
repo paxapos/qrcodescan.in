@@ -20,7 +20,7 @@
 1. Clone this repo
 
   ```bash
-  git clone https://github.com/code-kotis/qr-code-scanner
+  git clone git@github.com:paxapos/qrcodescan.in.git
   ```
 
 2. Installation
